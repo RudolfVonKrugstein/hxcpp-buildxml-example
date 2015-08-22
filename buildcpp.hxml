@@ -1,0 +1,5 @@
+-main Main
+-cpp cpp
+-cp src
+-lib hxcpp
+-D static_link
