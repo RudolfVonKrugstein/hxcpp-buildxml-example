@@ -1,0 +1,6 @@
+<files id='haxe'>
+  <compilerflag value='-I../include'/>
+</files>
+<files id='__lib__'>
+  <compilerflag value='-I../include'/>
+</files>

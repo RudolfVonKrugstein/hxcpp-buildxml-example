@@ -2,12 +2,7 @@ package;
 
 
 @:buildXml("
-           <files id='haxe'>
-             <compilerflag value='-I../include'/>
-           </files>
-           <files id='__lib__'>
-             <compilerflag value='-I../include'/>
-           </files>
+<include name='${haxelib:hxcpp_buildxml_example}/BuildFile.xml'/>
 ")
 
 @:include("cppclass.h")
